@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-fcij6m.introduse.me/sitemap.xml
